@@ -6,3 +6,6 @@ def main() -> int:
     """Main entry point."""
     cli.cli()
     return 0
+
+if __name__ == "__main__":
+    main()
